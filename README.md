@@ -1,2 +1,2 @@
 # pca_kmeans_matlab
-An assignment in which dimension reduction is applied with PCA, clustering with k-means algorithm and classification with Naive Bayes Classifier. Implemented in MATLAB, using the MNIST dataset.
+An assignment for the course Pattern Recognition, the dataset that is used is the MNist hand digits. In which custom dimension reduction is tried with the use of some statistical measures. Next the PCA algorithm is applied to compare the dimention reduction methods. For clustering the digits we used k-means algorithm and for classification Naive Bayes Classifier. Implemented in MATLAB.
